@@ -13,7 +13,8 @@
 - [专注力调节指南](https://774qq7q36bgn.space.minimaxi.com#专注力)
 - [心锚设置指南](https://774qq7q36bgn.space.minimaxi.com#心锚)
 - [心理能量提升指南](https://774qq7q36bgn.space.minimaxi.com#心力)
-
+- [睡前放松引导工具](https://rigivg2kt9gu.space.minimaxi.com/)
+  
 ## 使用说明
 点击上方链接即可使用对应工具，完全免费。
 
