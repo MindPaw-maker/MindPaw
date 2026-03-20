@@ -30,3 +30,10 @@
 
 ## 📄 许可证
 MIT License
+
+## 👤 作者
+
+MindPaw 心理助手作者 | 20个情绪场景开源项目 | 陪你梳理情绪，找到内心节奏
+
+- 体验：https://www.coze.cn/s/SpDail_Ok3Q/
+- GitHub：https://github.com/MindPaw-maker/MindPaw
