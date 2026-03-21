@@ -1,3 +1,7 @@
+<div align="center">
+  < img src="assets/logo.png" width="200" alt="MindPaw Logo">
+</div>
+
 # MindPaw 🐾
 
 一个开源的心理工具包，帮助你调节情绪、提升专注力、设置积极心锚、管理心理能量。
