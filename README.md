@@ -1,5 +1,5 @@
 <div align="center">
-  < img src="assets/logo.png" width="200" alt="MindPaw Logo">
+  <img src="assets/logo.png" width="200" alt="MindPaw Logo">
 </div>
 
 # MindPaw 🐾
