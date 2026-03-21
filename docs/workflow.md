@@ -9,7 +9,7 @@
 - **变量聚合**：汇总各分支输出，确保最终回复正确
 
 ## 体验入口
-- 扣子体验链接：https://www.coze.cn/s/SpDail_0k3Q/
+- 扣子体验链接：https://www.coze.cn/s/SpDail_Ok3Q/
 
 ## 贡献
 欢迎提交 PR 优化场景或添加新场景。
