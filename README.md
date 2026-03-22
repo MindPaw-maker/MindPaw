@@ -16,7 +16,7 @@
 
 ## 🧰 轻训练工具集
 我们开发了五个轻训练工具，覆盖专注力、情绪、睡眠，每天5分钟，轻松养成好习惯。点击下方按钮体验全部工具：
-[👉 体验全部工具](https://nrwmfjy7xmvh.space.minimaxi.com/)
+[👉 体验全部工具](https://2f2m3jefc4am.space.minimaxi.com/)
 或者直接访问单个工具：
 - [微番茄钟](https://22r7li4vxvzv.space.minimaxi.com/)
 - [每日专注力报告](https://e7vpdkdju5a3.space.minimaxi.com/)
