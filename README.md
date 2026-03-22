@@ -16,18 +16,13 @@
 
 ## 🧰 轻训练工具集
 我们开发了五个轻训练工具，覆盖专注力、情绪、睡眠，每天5分钟，轻松养成好习惯。点击下方按钮体验全部工具：
-[👉 体验全部工具](https://2f2m3jefc4am.space.minimaxi.com/)
+[👉 体验全部工具](https://j4ydc8y6fbk8.space.minimaxi.com/)
 或者直接访问单个工具：
-- [微番茄钟](https://22r7li4vxvzv.space.minimaxi.com/)
-- [每日专注力报告](https://e7vpdkdju5a3.space.minimaxi.com/)
-- [情绪急救卡片](https://f2ar1ywe359j.space.minimaxi.com/)
-- [考前减压助手](https://2fhtaidpyn3f.space.minimaxi.com/)
-- [专注力打卡日历](https://zvjstr48x6f4.space.minimaxi.com/)
-  
-💡 **工具使用建议**：  
-- **初学者**：先从“轻训练工具”入手，每天5分钟培养专注力和情绪调节习惯。  
-- **需要深度陪伴**：再尝试“深度心理助手（扣子版）”，进行多轮对话，梳理复杂情绪。  
-- 两者结合使用，效果更佳：用工具记录进步，用助手探索内心。
+- [微番茄钟](https://h7ihprbsjuux.space.minimaxi.com/)
+- [每日专注力报告](https://1r9jcc61e4y5.space.minimaxi.com/)
+- [情绪急救卡片](https://ipijwl28v37g.space.minimaxi.com/)
+- [考前减压助手](https://cqphfrnoyslk.space.minimaxi.com/)
+- [专注力打卡日历](https://xqf9uglffmy0.space.minimaxi.com/)
   
 ## 🤖 深度心理助手（扣子版）
 我们基于扣子平台打造了一个拥有 20 个细分场景的深度对话助手，支持多轮交互和个性化建议。
