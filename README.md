@@ -6,7 +6,7 @@
 
 一个开源的心理工具包，帮助你调节情绪、提升专注力、设置积极心锚、管理心理能量。
 
-[![在线体验](https://img.shields.io/badge/在线体验-MindPaw-blue)](https://www.coze.cn/s/SpDail_Ok3Q/)
+👉[![在线体验](https://img.shields.io/badge/在线体验-MindPaw-blue)](https://www.coze.cn/s/SpDail_Ok3Q/)
 
 ## 🎯 核心能力
 - **情绪力**：焦虑、烦躁、社交压力的即时调节
