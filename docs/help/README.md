@@ -62,7 +62,7 @@
 
 ## 🔗 全部工具导航
 所有工具统一入口（导航页）：  
-👉 [MindPaw 心理工具集 | 轻训练 + 深度助手](https://1o0q4gwo14ab.space.minimaxi.com/)
+👉 [MindPaw 心理工具集 | 轻训练 + 深度助手](https://ehs95gyxp7uw.space.minimaxi.com/)
 
 ---
 
